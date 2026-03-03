@@ -1,5 +1,6 @@
-This is a Streamlit web app
+This is a Streamlit web app, here is the link:
 
+https://plotdigitizerwithtotalleastsquaresmethodandintegralcalculation.streamlit.app/
 
 Is this app you can insert your graph image, click on the curve/points on the graph and the app calculates what each point should equal to(kinda like Plot Digitizer). After that it uses the Total Least Square Method to aproximate an equation of the points and lastly it calculates the integral value of said equation. 
 
