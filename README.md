@@ -4,6 +4,8 @@ https://plotdigitizerwithtotalleastsquaresmethodandintegralcalculation.streamlit
 
 Is this app you can insert your graph image, click on the curve/points on the graph and the app calculates what each point should equal to(kinda like Plot Digitizer). After that it uses the Total Least Square Method to aproximate an equation of the points and lastly it calculates the integral value of said equation. 
 
+This is just a proof of concept, no need to actually be performative.
+
 <img width="1830" height="432" alt="image" src="https://github.com/user-attachments/assets/94ccf650-0677-4db5-846e-ee97e2028fdd" />
 
 
